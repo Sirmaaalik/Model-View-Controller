@@ -1,0 +1,20 @@
+{
+  "name": "model-view-controller",
+  "version": "1.0.0",
+  "description": "Model-View-Controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirmaaalik/Model-View-Controller.git"
+  },
+  "author": "Malik Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirmaaalik/Model-View-Controller/issues"
+  },
+  "homepage": "https://github.com/Sirmaaalik/Model-View-Controller#readme"
+}
